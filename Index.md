@@ -21,11 +21,12 @@ Welcome to the ultimate timeline of **Spider-Man's most iconic fights**! 🕷️
 
 ---
 ### **Dive Into The Full Battles**
-[**Villain Battle History**](villains.md)
+[**Villain Battle History**](https://github.com/zacharyfn/Spiderman-Fights/blob/main/Villain.md)
 
 ### **Classic Battle Scene**
 <div class="video-container">
-    <a href="https://www.youtube.com/watch?v=V5JZoz8cwH8">
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/The_Night_Gwen_Stacy_Died.jpg" alt="Watch Green Goblin vs. Spider-Man">
+    <a href="https://www.youtube.com/watch?v=MiaTyUcu5VM">
+        <img src="![image](https://github.com/user-attachments/assets/3b3dd3c7-9680-4362-beb5-a52575586770)
+" alt="Watch Green Goblin vs. Spider-Man">
     </a>
 </div>

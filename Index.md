@@ -1,0 +1,31 @@
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+# **Spider-Man's Greatest Battles**
+Welcome to the ultimate timeline of **Spider-Man's most iconic fights**! 🕷️  
+
+---
+### **Notorious Villains Timeline**
+| Villain        | First Encounter | Major Battle |
+|---------------|---------------|--------------|
+| Green Goblin  | 1964 (*Amazing Spider-Man #14*) | The Bridge Showdown |
+| Doctor Octopus | 1963 (*Amazing Spider-Man #3*) | The Master Planner's Revenge |
+| Venom        | 1988 (*Amazing Spider-Man #300*) | The Lethal Protector War |
+| Sandman      | 1963 (*Amazing Spider-Man #4*) | The Battle on the Beach |
+| Mysterio     | 1964 (*Amazing Spider-Man #13*) | The Illusionist’s Last Trick |
+| The Lizard   | 1963 (*Amazing Spider-Man #6*) | The Sewers Showdown |
+| Electro      | 1964 (*Amazing Spider-Man #9*) | Times Square Disaster |
+| Kingpin      | 1967 (*Amazing Spider-Man #50*) | The Crime Lord's Fall |
+| Carnage      | 1992 (*Amazing Spider-Man #361*) | Maximum Carnage |
+| Rhino        | 1966 (*Amazing Spider-Man #41*) | The Rampage in Manhattan |
+
+---
+### **Dive Into The Full Battles**
+[**Villain Battle History**](villains.md)
+
+### **Classic Battle Scene**
+<div class="video-container">
+    <a href="https://www.youtube.com/watch?v=V5JZoz8cwH8">
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/The_Night_Gwen_Stacy_Died.jpg" alt="Watch Green Goblin vs. Spider-Man">
+    </a>
+</div>

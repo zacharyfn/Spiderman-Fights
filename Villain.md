@@ -1,7 +1,3 @@
----
-layout: default
-title: Spider-Man Villain Fights
----
 
 <link rel="stylesheet" type="text/css" href="style.css">
 

@@ -22,7 +22,7 @@ Welcome to the ultimate timeline of **Spider-Man's most iconic fights**! 🕷️
 ---
 ### **Dive Into The Full Battles**
 [**Villain Battle History**](https://github.com/zacharyfn/Spiderman-Fights/blob/main/Villain.md)
-  <img src="![image](https://github.com/user-attachments/assets/3b3dd3c7-9680-4362-beb5-a52575586770)
+![image](https://github.com/user-attachments/assets/3b3dd3c7-9680-4362-beb5-a52575586770)
 ### **Classic Battle Scene**
 <div class="video-container">
     <a href="https://www.youtube.com/watch?v=MiaTyUcu5VM">

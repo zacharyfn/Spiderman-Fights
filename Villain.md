@@ -47,4 +47,4 @@
 - Spidey uses **agility and strategy** to take him down.  
 
 ---
-[Back to Home](index.md)
+[Go Back](https://github.com/zacharyfn/Spiderman-Fights/blob/main/Index.md)
